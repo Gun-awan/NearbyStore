@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368181467544",
+    "project_id": "lookingstroreapp2",
+    "storage_bucket": "lookingstroreapp2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368181467544:android:f5c4ae1b4b482bca7ff3ed",
+        "android_client_info": {
+          "package_name": "com.mobile2.lookingstroreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJ9L5AuUf5mQumZhn9eD41efF2t47wxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
